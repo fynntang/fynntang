@@ -1,4 +1,5 @@
-### Hello 👋
+### Hello, I am [Fynn Tang](https://github.com/fynntang) 👋, Here is my blog`s(Creating) ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+<br>
 
 > Keep calm and coding.
 
@@ -8,7 +9,39 @@
 - see through the master; 
 - become the master;
 
-🇨🇳 China Dongguan・🕹Web developer
+<br />
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/fynntang/fynntang/blob/master/svgs/giphy.gif" />
+<br />
+
+### Hi 🙋‍♂️,
+<!--
+### 95 year, 
+-->
+
+#### - 🥀 learning...  
+- PHP <code><img src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"></code>
+- Swoole <code><img src="https://avatars3.githubusercontent.com/u/8121270?s=200&v=4"></code>
+- Hyperf <code><img src="https://avatars2.githubusercontent.com/u/44228082?s=200&v=4"></code>
+- Laravel <code><img src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4"></code>
+- Docker <code><img src="https://avatars0.githubusercontent.com/u/5429470?s=200&v=4"></code>
+- Kubernetes <code><img src="https://avatars3.githubusercontent.com/u/13629408?s=200&v=4"></code>
+
+#### - 📮 email ? Click here 👉🏼 [<img src="https://github.com/fynntang/fynntang/blob/master/svgs/gmail.svg">](fzpying@gmail.com)
+
+**Point of interest, 🙏**
+**Flutter, Golang, Python, Wechat applet, OCR😼...**
+<br />
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=fynntang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
+***********************************
+
+🇨🇳 China Dongguan・🕹 Web developer
+
+#### Thanks ~ 🙏🏼
+
+
 
 
 <!--
