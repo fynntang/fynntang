@@ -1,4 +1,4 @@
-### Hello, I am [Fynn Tang](https://github.com/fynntang) 👋, Here is my blog`s(Creating) ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### Hello, I am [Fynn Tang](https://github.com/fynntang) 👋, Here is my [blog`s~](http://www.fzpying.com)(Creating) ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 <br>
 
 > Keep calm and coding.
