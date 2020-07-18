@@ -9,6 +9,10 @@
 - see through the master; 
 - become the master;
 
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/fynntang/fynntang/blob/master/svgs/giphy.gif" />
+
+<br />
+
 ### Hi 🙋‍♂️,
 <!--
 ### 95 year, 
@@ -22,9 +26,6 @@
 - Docker <code><img height='20' src="https://avatars0.githubusercontent.com/u/5429470?s=200&v=4"></code>
 - Kubernetes <code><img height='20' src="https://avatars3.githubusercontent.com/u/13629408?s=200&v=4"></code>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/fynntang/fynntang/blob/master/svgs/giphy.gif" />
-
-<br />
 
 #### - 📮 Email ? Click here 👉🏼 [<img src="https://github.com/fynntang/fynntang/blob/master/svgs/gmail.svg">](fzpying@gmail.com)
 
