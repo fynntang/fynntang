@@ -1,8 +1,8 @@
-# Hi there, I'm Fynn Tang 👋
+# Hi there, I'm Simon 👋
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-fzpying.com-blue?style=flat-square)](http://www.fzpying.com)
+[![Blog](https://img.shields.io/badge/Blog-fynntang.com-blue?style=flat-square)](https://www.fynntang.com)
 [![Email](https://img.shields.io/badge/Email-fzpying@gmail.com-red?style=flat-square)](mailto:fzpying@gmail.com)
 ![Pronouns](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
@@ -14,7 +14,7 @@
 
 > Keep calm and coding.
 
-I'm a passionate **Web Developer** based in **Dongguan, China** 🇨🇳, dedicated to continuous learning and growth in software development.
+I'm a passionate **Software Engineer** based in **Singapore** 🇸🇬, dedicated to continuous learning and growth in software development.
 
 ### 🎯 Philosophy
 
@@ -24,22 +24,16 @@ I'm a passionate **Web Developer** based in **Dongguan, China** 🇨🇳, dedica
 - See through the master
 - Become the master
 
-## 🛠️ Tech Stack & Learning Journey
+## 🛠️ Tech Stack
 
-Currently learning and working with:
+Currently working with:
 
-#### Backend & Frameworks
-- **PHP** <code><img height='20' src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"></code>
-- **Swoole** <code><img height='20' src="https://avatars3.githubusercontent.com/u/8121270?s=200&v=4"></code>
-- **Hyperf** <code><img height='20' src="https://avatars2.githubusercontent.com/u/44228082?s=200&v=4"></code>
-- **Laravel** <code><img height='20' src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4"></code>
-
-#### DevOps & Infrastructure
-- **Docker** <code><img height='20' src="https://avatars0.githubusercontent.com/u/5429470?s=200&v=4"></code>
-- **Kubernetes** <code><img height='20' src="https://avatars3.githubusercontent.com/u/13629408?s=200&v=4"></code>
-
-#### Areas of Interest
-**PHP** • **C/C++** • **Golang** • **Java** • **Flutter** • **WeChat Mini Programs** • **OCR** 😼
+#### Languages & Technologies
+- **C/C++** - Systems programming and performance-critical applications
+- **Rust** - Safe systems programming and modern development
+- **Java** - Enterprise applications and backend services
+- **Go** - Cloud-native applications and microservices
+- **JavaScript/TypeScript** - Full-stack web development
 
 ## 📫 Get In Touch
 
